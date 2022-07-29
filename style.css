@@ -1,0 +1,50 @@
+body {
+    background-image: url(https://img.freepik.com/free-vector/clean-medical-background_53876-116877.jpg?w=1800&t=st=1659092308~exp=1659092908~hmac=1900bb32407596f0ce1f8c120ec4c40453d589c6597e6abba78ea85ca2bd051c);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.covidcard {
+    background-color:transparent;
+    padding: 30px;
+    height: 35vh;
+    display: flex;
+    margin: 40px;
+    box-shadow: 3px 3px 28px;
+    
+}
+.ncard1 {
+  height: 100px;
+  margin-top: 50px;
+  border-radius: 5px;
+  
+  
+}
+.searchbar {
+    margin: 100px;
+    display: flex;
+    justify-content: center; 
+}
+#input{
+  width: 40rem;
+  padding: 20px;
+  border-radius: 5px;
+  background-color:transparent;
+  outline: none;
+}
+.cbtn {
+    width: 150px;
+    border-radius: 5px;
+    margin-left: 10px;
+    background-color: transparent;
+}
+#input:hover {
+ box-shadow: 2px 2px 20px cadetblue;
+ 
+}
+.cbtn:hover {
+    box-shadow: 2px 2px 20px cadetblue;
+}
+ .covid {
+    display: flex;
+    justify-content: center;
+}
